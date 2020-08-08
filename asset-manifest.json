@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zawztun/youtube-video/static/css/main.2de54ffd.chunk.css",
-    "main.js": "/zawztun/youtube-video/static/js/main.865b843a.chunk.js",
-    "main.js.map": "/zawztun/youtube-video/static/js/main.865b843a.chunk.js.map",
-    "runtime-main.js": "/zawztun/youtube-video/static/js/runtime-main.f721fc4a.js",
-    "runtime-main.js.map": "/zawztun/youtube-video/static/js/runtime-main.f721fc4a.js.map",
-    "static/js/2.aa78281f.chunk.js": "/zawztun/youtube-video/static/js/2.aa78281f.chunk.js",
-    "static/js/2.aa78281f.chunk.js.map": "/zawztun/youtube-video/static/js/2.aa78281f.chunk.js.map",
-    "index.html": "/zawztun/youtube-video/index.html",
-    "precache-manifest.919a834cd76d18a56d451d785b07cdc3.js": "/zawztun/youtube-video/precache-manifest.919a834cd76d18a56d451d785b07cdc3.js",
-    "service-worker.js": "/zawztun/youtube-video/service-worker.js",
-    "static/css/main.2de54ffd.chunk.css.map": "/zawztun/youtube-video/static/css/main.2de54ffd.chunk.css.map",
-    "static/js/2.aa78281f.chunk.js.LICENSE.txt": "/zawztun/youtube-video/static/js/2.aa78281f.chunk.js.LICENSE.txt"
+    "main.css": "/youtube-video/static/css/main.2de54ffd.chunk.css",
+    "main.js": "/youtube-video/static/js/main.865b843a.chunk.js",
+    "main.js.map": "/youtube-video/static/js/main.865b843a.chunk.js.map",
+    "runtime-main.js": "/youtube-video/static/js/runtime-main.1f4bd45a.js",
+    "runtime-main.js.map": "/youtube-video/static/js/runtime-main.1f4bd45a.js.map",
+    "static/js/2.aa78281f.chunk.js": "/youtube-video/static/js/2.aa78281f.chunk.js",
+    "static/js/2.aa78281f.chunk.js.map": "/youtube-video/static/js/2.aa78281f.chunk.js.map",
+    "index.html": "/youtube-video/index.html",
+    "precache-manifest.63b741f54f80e44f585df20b3a703cec.js": "/youtube-video/precache-manifest.63b741f54f80e44f585df20b3a703cec.js",
+    "service-worker.js": "/youtube-video/service-worker.js",
+    "static/css/main.2de54ffd.chunk.css.map": "/youtube-video/static/css/main.2de54ffd.chunk.css.map",
+    "static/js/2.aa78281f.chunk.js.LICENSE.txt": "/youtube-video/static/js/2.aa78281f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f721fc4a.js",
+    "static/js/runtime-main.1f4bd45a.js",
     "static/js/2.aa78281f.chunk.js",
     "static/css/main.2de54ffd.chunk.css",
     "static/js/main.865b843a.chunk.js"
